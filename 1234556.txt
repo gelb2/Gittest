@@ -1,4 +1,5 @@
-1234567
+﻿0000000000
 Abcdefg
 adsjflkajflajsfd;adfj
 한글은 안써지나
+
